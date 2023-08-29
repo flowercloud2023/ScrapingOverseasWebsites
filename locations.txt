@@ -1,0 +1,5 @@
+New York City,NY
+Atlanta,GA
+Chicago,IL IN WI
+Washington,DC VA MD WV
+Miami Fort Lauderdale West Palm Beach,FL
