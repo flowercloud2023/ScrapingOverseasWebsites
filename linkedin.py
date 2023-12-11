@@ -53,8 +53,6 @@ def get_user_browser(username, password):
 def main(source):
     # 查找所有账户
     window = run_Chrome()
-    username = "legpoibel@mail.ru"
-    password = "9FJJpe52z"
     link_list = []
     p = 1
     cookiesDict, driver = get_user_browser(username, password)
